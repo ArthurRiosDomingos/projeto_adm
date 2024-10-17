@@ -1,0 +1,11 @@
+.sobre{
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+body{
+    text-align: center;
+    margin-top: 60px;
+    background: linear-gradient(to right, black, #ffdbdb);
+}
